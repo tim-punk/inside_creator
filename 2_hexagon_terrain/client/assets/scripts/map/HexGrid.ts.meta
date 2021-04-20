@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "4525b6d9-5343-4382-a3a1-5d6bbac55907",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/scripts/map/HexGrid.js",
+    "importerSettings": 7,
+    "simulateGlobals": []
+  }
+}
