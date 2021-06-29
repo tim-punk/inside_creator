@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "e8b068b6-eeb1-4250-bb2b-a523b8e8b812",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/scripts/map/MapUtil.js",
+    "importerSettings": 7,
+    "simulateGlobals": []
+  }
+}

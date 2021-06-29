@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "faeb6d8f-c948-4ede-956a-171c302f5a69",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/scripts/map/HexMap.js",
+    "importerSettings": 7,
+    "simulateGlobals": []
+  }
+}
